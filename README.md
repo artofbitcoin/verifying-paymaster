@@ -1,3 +1,7 @@
+## Parcours français
+
+Une [lecture guidée du sponsoring ERC-4337 sur Base](docs/fr/README.md) couvre signatures, bundlers, paiement ERC-20 et griefing.
+
 # VerifyingPaymaster
 
 ## Overview
